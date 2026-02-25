@@ -23,6 +23,5 @@ A high-performance implementation of the Sieve of Eratosthenes targeting $N=10^9
 * **Peak Speedup:** 45x (CUDA vs. Serial Baseline)
 * **Memory Optimization:** Bit-packed array reducing footprint by 87.5%.
 
-### 🚀 Getting Started
-1. `pip install -r requirements.txt`
-2. `python src/sieve_cuda.py`
+### 🚀 Youtube Video link
+https://youtu.be/rZe7Wdfvapg
